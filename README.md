@@ -13,13 +13,6 @@ This project is a simple yet effective **HTML & CSS** web page designed to enhan
 ✅ Styled using **CSS** (classic version)  
 ✅ Beginner-friendly and easy to customize  
 
-## 🚀 Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/mostafawaelshoeip/SEF-Project-1-Hirely.git
-   ```
-2. Open `index.html` in your browser to view the project.  
-
 ## 🎯 Goals  
 - Improve **HTML & CSS** skills  
 - Learn how to structure a basic web project  
